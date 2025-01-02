@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 - 🌱 I’m currently learning and exploring new technologies in web development.
 - 💼 I’m a software developer with a passion for creating innovative solutions.
 - 🎓 I hold a degree in Computer Science from Nusa Mandiri University.
-- 📫 How to reach me: paulusuluap@gmail.com (mailto:paulusuluap@gmail.com)
+- 📫 How to reach me: paulusuluap@gmail.com
 
 ## Skills
 
